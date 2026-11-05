@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dark-pop-chords-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "e2620baeccc3352b1142cbb607c3002d80e77826a8c756c2eac5247af8611f4e",
+  "source_midi_path": "midi/dp01-black-ribbon/dp01-black-ribbon-combined.mid",
+  "source_midi_sha256": "2ddc428e26e29d59ce1808b0bf35c9302233ba5486c91c7d268371e644cd97db",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "dp01",
+    "start_seconds": 0,
+    "end_seconds": 75.294
+  },
+  "measurement": {
+    "sample_peak": 0.131692,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

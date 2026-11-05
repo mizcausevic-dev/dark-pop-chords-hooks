@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dp01,Black Ribbon,pack-local equal-tempered pitch collection,A,102,4/4,480,32,61440,midi/dp01-black-ribbon/dp01-black-ribbon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dp02,Glass Echo,pack-local equal-tempered pitch collection,C,102,4/4,480,32,61440,midi/dp02-glass-echo/dp02-glass-echo-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dp03,Velvet Fall,pack-local equal-tempered pitch collection,D#,102,4/4,480,32,61440,midi/dp03-velvet-fall/dp03-velvet-fall-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dp04,After the Light,pack-local equal-tempered pitch collection,A#,102,4/4,480,32,61440,midi/dp04-after-the-light/dp04-after-the-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

@@ -1,0 +1,26 @@
+{
+  "title": "Dark Pop Chords and Hooks",
+  "study": "dp01",
+  "bpm": 102,
+  "source_audio": "preview/dark-pop-chords-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "e2620baeccc3352b1142cbb607c3002d80e77826a8c756c2eac5247af8611f4e",
+  "source_midi": "midi/dp01-black-ribbon/dp01-black-ribbon-combined.mid",
+  "source_midi_sha256": "2ddc428e26e29d59ce1808b0bf35c9302233ba5486c91c7d268371e644cd97db",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "8a90022f6983832e1e903c5da30f5ca3843636703b44fd84930d929797b81514",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "072bf0652965692d839b1f0bccc8ffb7d32de3dc4d60440e1f5cae40ee801815",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "606e6c5067891f5adb3110e912b533c606d1499b2f03672fbf66e68c4f99fa23",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
