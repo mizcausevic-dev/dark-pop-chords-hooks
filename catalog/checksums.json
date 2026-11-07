@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/dark-pop-chords-hooks-midi.zip",
-      "bytes": 33882,
-      "sha256": "4d9d59f7fdf13f9dd5393d80f4c884dbe51ab9297e17661504ec45811ca55362"
+      "bytes": 34869,
+      "sha256": "008926b3dcd91a5f4eb57ae5624c542fe93ded5cfa10072027d2dd1e00c41043"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9531,
-      "sha256": "bcc53e8928d6eee5117d78fee1390a54cb7e1c8ea6da088e132b91d4fda7e09f"
+      "bytes": 9721,
+      "sha256": "792d2c137b1a2087ac775105baa53e7e8ea80bc821699c99d612bfccd7d5c099"
     },
     {
       "path": "midi/dp01-black-ribbon/chord_pulse.mid",
@@ -457,6 +457,11 @@
       "sha256": "49da2f80ed918c2282c1457f417e9d0094d4236b9a4aa2d062d043e47a4fc08d"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-pop-chords-hooks-simple-synth-preview.mp3",
       "bytes": 1820674,
       "sha256": "e2620baeccc3352b1142cbb607c3002d80e77826a8c756c2eac5247af8611f4e"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3900,
-      "sha256": "50b235a03d868cc3e9760743090539957b51dccdd170e12ddb1d531b15ccc874"
+      "bytes": 4015,
+      "sha256": "3e52e7c14128c339528c095ab02e41cb490ae612a1c4f8e3292731046ecc694a"
     },
     {
       "path": "social/instagram/caption.txt",
